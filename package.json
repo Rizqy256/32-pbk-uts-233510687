@@ -1,0 +1,15 @@
+{
+  "name": "32-pbk-uts-NPM",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.3.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
